@@ -33,7 +33,7 @@ To use the app, follow these steps:
 
 ## Credits
 
-This app was created by [Your Name].
+This app was created by Aliya Z.
 
 ## License
 
